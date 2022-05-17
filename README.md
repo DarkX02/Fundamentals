@@ -1,2 +1,2 @@
 # Fundamentals
-Fundamentals Module Tasks
+MY SoftUni Fundamentals Module Tasks
